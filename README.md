@@ -1,7 +1,7 @@
 # Unit1-Web-TakeHome
 Take home assignment for unit 1 web instructors(draft)
 
-##Task 1 - HTML and CSS
+## Task 1 - HTML and CSS
 
 ### Minimum Viable Product
 
@@ -26,26 +26,26 @@ You will also notice there are 10 boxes on the home page that need background co
 * [ ] box9: `indigo`
 * [ ] box10: `dodgerblue`
 
-##Task 2 - JavaScript
+## Task 2 - JavaScript
 
 Your finished project must include all of the following requirements:
 
-###Task A: Objects and Arrays
+### Task A: Objects and Arrays
 Test your knowledge of advanced array methods and callbacks.
 
 Use the arrays-callbacks.js link to get started. Read the instructions carefully!
 
-###Task B: Closure
+### Task B: Closure
 This challenge takes a look at closures as well as scope.
 
 Use the closure.js link to get started. Read the instructions carefully!
 
-###Task C: Prototypes
+### Task C: Prototypes
 Create constructors, bind methods, and create cuboids in this prototypes challenge.
 
 Use the prototypes.js link to get started. Read the instructions carefully!
 
-###Task D: Classes
+### Task D: Classes
 Once you have completed the prototypes challenge, it's time to convert all your hard work into classes.
 
 Use the classes.js link to get started. Read the instructions carefully!
