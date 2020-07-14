@@ -9,11 +9,11 @@ Your finished project must include all of the following requirements:
 
 #### Home Page
 
-[Review the provided design file for the home page](Unit1-Instructor-TakeHome/design-files/home.png).  Notice the navigation and header images are missing.
+[Review the provided design file for the home page](Unit1-Instructor-TakeHome/design-files/home.png).  Notice that when you open the `index.html` page in the browser, the navigation and header images shown in the design file are missing. Your first task:
 
 * [ ] Build the HTML and CSS to create the missing navigation and header.
 
-You will also notice there are 10 boxes on the home page that need background colors.  Use this list below to correctly style each box:
+Next, you will also notice there are 10 boxes on the home page that need background colors.  Use the list below to correctly style each box:
 
 * [ ] box1: `teal`
 * [ ] box2: `gold`
@@ -28,7 +28,7 @@ You will also notice there are 10 boxes on the home page that need background co
 
 ## Task 2 - JavaScript
 
-Your finished project must include all of the following requirements:
+In the `JavaScript` directory there are four JavaScript files with exercises for you to complete. Your finished project must include all of the following requirements:
 
 ### Task A: Objects and Arrays
 Test your knowledge of advanced array methods and callbacks.
