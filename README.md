@@ -9,7 +9,7 @@ Your finished project must include all of the following requirements:
 
 #### Home Page
 
-[Review the provided design file for the home page](design-files/home.png).  Notice the navigation and header images are missing.
+[Review the provided design file for the home page](Unit1-Web-TakeHome/design-files/home.png).  Notice the navigation and header images are missing.
 
 * [ ] Build the HTML and CSS to create the missing navigation and header.
 
