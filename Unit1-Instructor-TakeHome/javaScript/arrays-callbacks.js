@@ -44,7 +44,7 @@ const zooAnimals = [
      Step 1: In your own words please descibe what a "Higher order function" is
      Your Answer: 
 
-     Step 2: Below, please create a working example of a higher order function (including the accompanying callback function). 
+     Step 2: Below, please create a working example of a higher order function (including an accompanying callback function). 
   */
   
   
